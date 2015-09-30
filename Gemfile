@@ -43,7 +43,9 @@ group :development, :test do
   gem 'spring'
   
   gem 'rails_12factor', group: :production
-  
+
+  gem 'bootstrap-sass'
+
   ruby "2.2.1"
 end
 
